@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# we don't want to leak our sensetive stuff on github
+config.json
